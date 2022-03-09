@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mooliinex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooliinex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<h3 align="center">Commit into EPITECH</h3>
+<h3 align="center">Contributions into EPITECH </h3>
 <div align="center">
 	<br>
 	<img src="Commit EPITECH/2022-03-08.png" width="800" height="400">
