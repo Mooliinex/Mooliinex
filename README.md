@@ -30,6 +30,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Contributions into EPITECH 09/03/2022</h3>
 <div align="center">
 	<br>
-	<img src="Commit EPITECH/2022-03-09.png" width="800" height="400">
+	<img src="Commit EPITECH/2022-03-09.png" >
 	<br>
 </div>
