@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabien Le Fichoux</h1>
-<h3 align="center">Student at EPITECH Rennes 😄😄😄</h3>
+<h3 align="center">Student at EPITECH Rennes</h3>
 
 - 🔭 I’m currently working on **Web@cademie by EPITECH**
 
